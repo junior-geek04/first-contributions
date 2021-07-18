@@ -1177,6 +1177,7 @@ Berliana
 - [Aurindom Bhattacharyya] (https://github.com/auri2ky)
 - [Dan S] (https://github.com/semindan)
 - Sugat Dhole
+-Divyansh Panwar
 - SaraFarron (https://github.com/SaraFarron)
 - [Adam Valdinger](https://github.com/avaldinger)
 - [Luca Wrabetz](https://github.com/lucawrabetz)
